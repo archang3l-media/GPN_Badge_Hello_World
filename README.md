@@ -1,1 +1,2 @@
-# GPN_Badge_Hello_World
+# GPN Badge Hello World
+A simple Demo Programm displaying Hello World on the TFT Display.
